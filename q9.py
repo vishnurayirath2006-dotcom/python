@@ -69,3 +69,22 @@ for student in students:
     print("Highest :", student["highest"])
     print("Lowest  :", student["lowest"])
     print("Grade   :", student["grade"])
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    

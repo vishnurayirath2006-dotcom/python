@@ -9,3 +9,14 @@ print("Total number of elements:", len(my_list))
 print("First element:", my_list[0])
 print("Last element:", my_list[-1])
 print("List in reverse order:", my_list[::-1])
+
+
+
+
+
+
+
+
+
+
+
