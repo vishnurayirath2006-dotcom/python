@@ -1,5 +1,3 @@
-123,demon,luis
-123,hero,ali
-233,demon,ajay
-3452,fishy,harold
-323,fan,anay
+
+123,all,ajay
+232,alit,beno
